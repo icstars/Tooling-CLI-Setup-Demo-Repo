@@ -1,3 +1,3 @@
 # Tooling-CLI-Setup-Demo-Repo
-I make a change
+I made a change
  
